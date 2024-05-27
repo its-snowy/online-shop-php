@@ -10,7 +10,7 @@ $query = mysqli_query($db, "SELECT * FROM produk");
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Shop</title>
+    <title>Online Shop Kedua</title>
     <style>
         tr,td{
             padding: 10px;
